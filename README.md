@@ -1,27 +1,27 @@
-## Docker for Azure
+## Docker CE for Azure
 
-### Getting Docker for Azure
+### Getting Docker CE for Azure
 
-Docker for Azure is free to deploy <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdownload.docker.com%2Fazure%2Fstable%2FDocker.tmpl" data-rel="Stable-1" target="_blank" id="azure-deploy">![Docker for Azure](http://azuredeploy.net/deploybutton.png)</a>
+"Docker CE for Azure" is free to deploy <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdownload.docker.com%2Fazure%2Fstable%2FDocker.tmpl" data-rel="Stable-1" target="_blank" id="azure-deploy">![Docker CE for Azure](http://azuredeploy.net/deploybutton.png)</a>
 
 ### Documentation
 
-If you don't understand something about Docker for Azure, the [extensive
+If you don't understand something about Docker CE for Azure, the [extensive
 documentation](https://docs.docker.com/docker-for-azure/) is a great place
 to look for answers.
 
 ### Support
 
-Users from the Docker community trade tips and tricks and discuss Docker
+Users from the Docker CE community trade tips and tricks and discuss Docker CE
 for Azure in [the user forum](https://forums.docker.com/c/docker-for-azure).
 
-Problems with the Docker for Azure deployment can be filed as issues in this
+Problems with the Docker CE for Azure deployment can be filed as issues in this
 ([docker/for-azure](https://github.com/docker/for-azure)) repository.
 
 ### This Repository
 
-This repository contains an issue tracker for Docker for Azure -- an
-integrated Docker experience on Azure. If you find a problem
+This repository contains an issue tracker for Docker CE for Azure -- an
+integrated Docker CE experience on Azure. If you find a problem
 with the software, first [browse the existing
 issues](https://github.com/docker/for-azure/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
